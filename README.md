@@ -11,6 +11,7 @@ FetReg invites the participants to solve the following tasks:
 #### Task 1: [Placental semantic segmentation](https://www.synapse.org/#!Synapse:syn25313156/wiki/610166)
 #### Task 2: [Placental RGB frame registration for mosaicking](https://www.synapse.org/#!Synapse:syn25313156/wiki/610166)
 
+### Dataset and challenge description are available here: https://arxiv.org/abs/2106.05923
 
 ## EndoVis-FetReg2021 Repository
 
